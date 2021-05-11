@@ -20,3 +20,4 @@ this is font emphasis
      1. Whole numbers
      2. natural numbers
      3. Integers
+ ![taj mahal](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
