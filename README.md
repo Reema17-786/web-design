@@ -7,3 +7,16 @@ web designing by apssdc
 **font stle for bold any sentence can be written**  no space afterv**
 ***font style in bold and bold***
 this is font emphasis
+# unordered list
+* fruits as unordered list
+* vegetables
+    * Carrot
+    * potato
+    * onions
+  ## ordered list
+  1. Alphabets
+  2. digits
+    
+     1. Whole numbers
+     2. natural numbers
+     3. Integers
