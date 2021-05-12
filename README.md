@@ -21,3 +21,11 @@ this is font emphasis
      2. natural numbers
      3. Integers
  ![taj mahal](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
+
+[Google](www.google.com)
+
+
+~~~python
+def fun();
+   print("hai")
+~~~
